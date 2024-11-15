@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AIOHEM7aRYA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maximilian.Laepple\\Desktop\\VsCode\\C#\\LiarGame\\LiarGame\\LiarGame.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Maximilian.Laepple\\Desktop\\VsCode\\C#\\LiarGame\\LiarGame\\obj\\project.nuget.cache : Found invalid data while decoding."
+    }
+  ]
+}

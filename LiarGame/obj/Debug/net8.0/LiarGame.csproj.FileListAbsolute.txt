@@ -1,0 +1,15 @@
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\bin\Debug\net8.0\LiarGame.exe
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\bin\Debug\net8.0\LiarGame.deps.json
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\bin\Debug\net8.0\LiarGame.runtimeconfig.json
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\bin\Debug\net8.0\LiarGame.dll
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\bin\Debug\net8.0\LiarGame.pdb
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.AssemblyInfoInputs.cache
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.AssemblyInfo.cs
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.csproj.CoreCompileInputs.cache
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.sourcelink.json
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.dll
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\refint\LiarGame.dll
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.pdb
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\LiarGame.genruntimeconfig.cache
+C:\Users\Maximilian.Laepple\Desktop\VsCode\C#\LiarGame\LiarGame\obj\Debug\net8.0\ref\LiarGame.dll
